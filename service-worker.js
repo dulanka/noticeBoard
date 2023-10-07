@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a9857d5d665b45de24dafb5f0704f711.js"
+  "/noticeBoard/precache-manifest.8e665c75dd519f3e753a64660f48c777.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "noticeboard"});
